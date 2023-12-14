@@ -8,6 +8,10 @@ The goal of this project was for me to set up a website and have some Boilerplat
 
 ## Getting Started
 
+Talk about CSs reset
+burger menu
+Talk about the about me section and entering the code
+
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
