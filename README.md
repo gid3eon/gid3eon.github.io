@@ -12,6 +12,7 @@ I also followed along with a code camp site, breaking down how to setup a portfo
 https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/#thebasichtmlboilerplate
 I also "borrowed" some code from an artists website.
 https://ovrkast.co/
+https://stackoverflow.com/questions/32464170/visual-studio-code-css-error-do-not-use-empty-rulesets
 
 ### CSS File
 So, I spent a lot of time trying to get my nav bar to stick to the top. It took me way too much time to realize that I had simply called my css file incorrectly in my html file. Doing this made me realize how important it is to simply organize your files. 
@@ -21,3 +22,5 @@ At first I went into this wanting to learn how to navigate both mobile and deskt
 
 ### Format
 Most of the other issues I ran into revolved around formatting. Naming variables in a way which you'll understand is really important to an efficient html index and helps when styling your content. 
+I FORGOT ABOUT THIS ISSUE
+At the beggining, when I was trying to get my site on the internet, I ran into some hiccups. For way too long I banged my head against a 20 inch think brick wall. I tried to setup a new site and was looking for every reason it wouldn't work..I forgot you can only make one site per git account.
